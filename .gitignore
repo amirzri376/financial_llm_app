@@ -1,0 +1,38 @@
+# ✅ Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ✅ Virtual environments
+.venv/
+venv/
+env/
+
+# ✅ Environment variables
+.env
+
+# ✅ Jupyter notebooks
+.ipynb_checkpoints/
+
+# ✅ Generated data & model files
+*.pkl
+*.log
+*.txt
+chunks.pkl
+documents.pkl
+index/faiss_index/
+index/chunks.pkl
+index/documents.pkl
+
+# ✅ System files
+.DS_Store
+Thumbs.db
+
+# ✅ IDE/editor settings
+.vscode/
+.idea/
+.vs/
+
+# ✅ Ignore raw data (optional)
+data/
