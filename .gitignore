@@ -24,6 +24,7 @@ documents.pkl
 index/faiss_index/
 index/chunks.pkl
 index/documents.pkl
+oldretriveddata/
 
 # ✅ System files
 .DS_Store
