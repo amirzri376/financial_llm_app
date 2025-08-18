@@ -70,8 +70,8 @@ Place PDFs/HTMLs inside the `data/` folder. Example:
 
 ```
 data/
-├── Crayon_annual-report_2023.pdf
-├── SoftwareOne_annual-report_2022.pdf
+├── (company) X_annual-report_2023.pdf
+├── (company) X_annual-report_2022.pdf
 └── ...
 ```
 
@@ -91,12 +91,12 @@ This script:
 
 ## Example Benchmark Questions
 
-- What was the total revenue for Crayon in 2023?
-- Who was on the board in Crayon in 2021?
-- What did the CEO of Crayon do before joining Crayon?
-- How much did Crayon grow from 2017 through 2023?
-- Compare the profitability for Uber, SoftwareOne, and Crayon from 2019 through 2023.
-- What are the most significant risk factors for SoftwareOne in 2021?
+- What was the total revenue for (company) X in 2023?
+- Who was on the board in (company) X in 2021?
+- What did the CEO of Crayon do before joining (company) X?
+- How much did (company) X grow from 2017 through 2023?
+- Compare the profitability for (company) X, (company) Y, and (company) Z from 2019 through 2023.
+- What are the most significant risk factors for (company) X in 2021?
 
 ---
 
