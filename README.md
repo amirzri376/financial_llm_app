@@ -8,9 +8,9 @@ This project is a Retrieval-Augmented Generation (RAG) system for answering fina
 
 Given a financial question like:
 
-- “What was the total revenue for Crayon in 2023?”
-- “Who was on the board of Crayon in 2021?”
-- “What did the CEO of Crayon do before joining the company?”
+- “What was the total revenue for (company) X in 2023?”
+- “Who was on the board of (company) X in 2021?”
+- “What did the CEO of (company) X do before joining the company?”
 
 The app:
 
