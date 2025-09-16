@@ -93,7 +93,7 @@ This script:
 
 - What was the total revenue for (company) X in 2023?
 - Who was on the board in (company) X in 2021?
-- What did the CEO of Crayon do before joining (company) X?
+- What did the CEO of (company) X do before joining (company) X?
 - How much did (company) X grow from 2017 through 2023?
 - Compare the profitability for (company) X, (company) Y, and (company) Z from 2019 through 2023.
 - What are the most significant risk factors for (company) X in 2021?
